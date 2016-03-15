@@ -18,5 +18,4 @@ class Currency
   def symbol
     @symbol
   end
-  def to_s
 end
